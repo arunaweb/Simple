@@ -8,3 +8,4 @@ Hello World!
 All right.
 Be happy!
 Don't worry!
+Еще помни о хорошем!
